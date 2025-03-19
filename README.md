@@ -6,7 +6,7 @@ It includes two different sorting approaches:
 1️⃣ **Binary Search Tree (BST) based TreeSort** – A custom implementation.  
 2️⃣ **TreeSet-based sorting** – Uses Kotlin’s built-in `TreeSet` (Red-Black Tree).  
 3️⃣ **Bonus:** A mini-app where users can input numbers and see them sorted in real-time.  
-4️⃣ **Unit Tests** to ensure sorting correctness.
+4️⃣ **Unit Tests** – to ensure sorting correctness.
 
 ---
 
@@ -43,5 +43,5 @@ To make the project more interactive, I created a **mini-app** that allows users
 ### **🖥️ App Flow**
 1️⃣ The user enters a list of numbers in an **EditText field**.  
 2️⃣ Presses the **"Sort"** button.  
-3️⃣ The numbers are sorted using either `TreeSort` (BST) or `TreeSet`.  
+3️⃣ The numbers are sorted using `TreeSort` (BST) as default.  
 4️⃣ The sorted result is displayed in a **TextView**.
